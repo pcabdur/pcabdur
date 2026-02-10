@@ -46,7 +46,7 @@ Passionate **Cloud & Blockchain Developer** focused on building **secure**, **sc
 <div align="center">
 
 ### ☁️ Cloud & Infrastructure
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,linux,kubernetes&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=aws,azure,linux,kubernetes&theme=dark"/>
 
 ### 🚀 DevOps & IaC
 <img src="https://skillicons.dev/icons?i=docker,terraform,githubactions,bash,nginx,jenkins&theme=dark"/>
@@ -58,7 +58,7 @@ Passionate **Cloud & Blockchain Developer** focused on building **secure**, **sc
 <img src="https://skillicons.dev/icons?i=python,go,js,ts,nodejs,react,java,nextjs&theme=dark"/>
 
 ### 🛠️ Tools & Databases
-<img src="https://skillicons.dev/icons?i=git,postman,vscode,mongodb,redis,postgresql&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,postman,vscode,mongodb,postgresql&theme=dark"/>
 
 </div>
 
