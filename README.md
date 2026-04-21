@@ -31,7 +31,7 @@
 
 ## About Me
 
-Passionate **Cloud & Blockchain Developer** focused on building **secure**, **scalable** cloud-native systems and decentralized applications. Experienced with **AWS**, **Azure**, **Terraform**, **Docker**, **Solidity**, **Ethereum**, **Polygon**, and **IPFS**.
+Passionate **Cloud & Blockchain Developer** focused on building **secure**, **scalable** cloud-native systems and decentralized applications. Experienced with **AWS**, **Azure**, **Terraform**, **Docker**, **Solidity**, **Ethereum**, and **IPFS**.
 
 - 🔭 **Currently building:** Multi-cloud Web3 vaults, NFT platforms, and phishing detection tools
 - 🌱 **Learning:** Kubernetes orchestration, advanced smart contract patterns, and AZ-204 certification
@@ -46,16 +46,16 @@ Passionate **Cloud & Blockchain Developer** focused on building **secure**, **sc
 <div align="center">
 
 ### ☁️ Cloud & Infrastructure
-<img src="https://skillicons.dev/icons?i=aws,azure,linux,kubernetes&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=aws,azure,linux&theme=dark"/>
 
 ### 🚀 DevOps & IaC
-<img src="https://skillicons.dev/icons?i=docker,terraform,githubactions,bash,nginx,jenkins&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=docker,terraform,githubactions,bash,nginx&theme=dark"/>
 
 ### ⛓️ Blockchain & Web3
 <img src="https://skillicons.dev/icons?i=solidity,ethereum,ipfs,web3&theme=dark"/>
 
 ### 💻 Languages & Full-Stack
-<img src="https://skillicons.dev/icons?i=python,go,js,ts,nodejs,react,java,nextjs&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,rust,js,ts,react,java&theme=dark"/>
 
 ### 🛠️ Tools & Databases
 <img src="https://skillicons.dev/icons?i=git,postman,vscode,mongodb,postgresql&theme=dark"/>
